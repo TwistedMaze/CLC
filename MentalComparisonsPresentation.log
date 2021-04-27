@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.26)  26 APR 2021 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.26)  27 APR 2021 13:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -669,11 +669,9 @@ LaTeX Info: Redefining \textlatin on input line 2319.
 )
 \l@nil=\language3
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeDresden.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty))
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\kernel@ifnextchar' on input line 12.
@@ -711,14 +709,14 @@ LaTeX Font Info:    ... okay on input line 14.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=342.2953pt
+* \textwidth=307.28987pt
 * \textheight=244.6939pt
-* \oddsidemargin=-61.31996pt
-* \evensidemargin=-61.31996pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -848,81 +846,37 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./MentalComparisonsPresentation.nav)
-Overfull \hbox (5.88211pt too wide) in paragraph at lines 14--14
- [][]  
- []
+) (./MentalComparisonsPresentation.nav) [1{/var/lib/texmf/fonts/map/pdftex/updm
+ap/pdftex.map}
 
-
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./MentalComparisonsPresentation.toc)
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
-
-[2
+] (./MentalComparisonsPresentation.toc) [2
 
 ]
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
-
 [3
 
 ]
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
 
-[4
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
 
-]
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
 
-[5
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [4
 
-]
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
+] [5
 
-[6
+] [6
+
+] [7
 
 ]
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
-
-[7
-
-]
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
-
 [8
 
-]
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
-
-[9
-
-]
-Overfull \hbox (5.88211pt too wide) has occurred while \output is active
- [][]  
- []
-
-[10
+] [9
 
 ]
 \tf@nav=\write6
@@ -934,31 +888,35 @@ Overfull \hbox (5.88211pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `MentalComparisonsPresentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
  (./MentalComparisonsPresentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `MentalComparisonsPresentation.out' has not c
 hanged.
 (rerunfilecheck)             Checksum: 1BD08386D116B226BB7511776F8DC40E;111.
  ) 
 Here is how much of TeX's memory you used:
- 18272 strings out of 483183
- 346753 string characters out of 5966292
- 606305 words of memory out of 5000000
- 32833 multiletter control sequences out of 15000+600000
- 534456 words of font info for 31 fonts, out of 8000000 for 9000
+ 18281 strings out of 483183
+ 346885 string characters out of 5966292
+ 611972 words of memory out of 5000000
+ 32831 multiletter control sequences out of 15000+600000
+ 539262 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 54i,16n,63p,796b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>
-Output written on MentalComparisonsPresentation.pdf (10 pages, 65142 bytes).
+ 54i,19n,57p,796b,768s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Navigation10} has been referenced but does not ex
+ist, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on MentalComparisonsPresentation.pdf (9 pages, 75355 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
- 292 compressed objects within 3 object streams
- 23 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 394 PDF objects out of 1000 (max. 8388607)
+ 357 compressed objects within 4 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 59 words of extra memory for PDF output out of 10000 (max. 10000000)
 
